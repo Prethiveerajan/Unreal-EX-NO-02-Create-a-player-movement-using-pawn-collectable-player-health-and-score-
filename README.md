@@ -4,6 +4,7 @@ Create a player movement using pawn,collectable,player health and score
 ## AIM:
 TO Create a player movement using pawn,collectable,player health and score.
 ## STEPS REQUIRED:
+```
 1)Create a new Unreal project and select a suitable template. Depending on the type of game you want to create, you may choose the third-person template, the side-scrolling template, or any other template that suits your needs.
 2)Create a new level for your game. This level will be where you place the coins and any other objects that the player can interact with.
 3)Create a new Unreal project and select a suitable template. Depending on the type of game you want to create, you may choose the third-person template, the side-scrolling template, or any other template that suits your needs.
@@ -17,6 +18,7 @@ TO Create a player movement using pawn,collectable,player health and score.
 11)Add a reference to the health UI widget in the player character blueprint. This will allow you to update the health display based on the player's current health.
 12)Add a reference to the main menu UI widget in the game mode blueprint. This will allow you to switch between the main game level and the main menu level.
 13)Add a button to the health UI that allows the player to return to the main menu. When the player clicks this button, set a variable in the game mode blueprint that triggers a level change to the main menu level.
+```
 ## OUTPUT:
 ## Pawn Movement Event Graph:
   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-02-Create-a-player-movement-using-pawn-collectable-player-health-and-score-/assets/94233064/48de8e1f-c4a4-4489-a7fe-957e30d8d03f)
